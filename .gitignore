@@ -5,3 +5,4 @@
 /__pycache__
 trained_model.keras
 secrets.toml
+.geminiignore
